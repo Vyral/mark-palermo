@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: San Mateo Real Estate Video Blog with Mark Palermo & Kirsten Hagen
+description: Our mission at The Palermo Properties Team is to be your best resource for San Mateo real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Palermo Properties Team, your professional San Mateo Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,41 +11,45 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Mark Palermo & Kirsten Hagen
   title:
   license_number:
   about_markdown: |
+    Mark is a hands-on agent, with well over a decade of real estate and mortgage experience, who takes the client/agent relationship very seriously. His extensive knowledge and success in sales, as well as proficiency in advertising, marketing and public relations cuts through the clutter of housing inventory and helps move houses fast.
 
-  brand:
-  brokerage:
-  market:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+    Mark's career started in the corporate world. He has 23+ years of International Ad Agency experience and has marketed and developed national campaigns for Fortune 500 companies. He uses those same techniques and provides innovative marketing strategies that will move your home very fast and for the most money…in any market condition. 
+  brand: The Palermo Properties Team
+  brokerage: Keller Williams Bay Area Living
+  market: San Mateo
+  address: 628 El Camino Real<br>San Carlos, CA 94070
+  phone: 650-218-6400
+  phone_type: Mark
+  phone2: 650-504-1469
+  phone2_type: Kristen
+  email: mark.palermo@kw.com
+  email2: khagen@kw.com
+  url: https://mark-palermo.kw.com
+  url2: https://homesbyhagen.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://mark-palermo.kw.com/listings-search/#/2033763787
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your San Mateo Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a San Mateo Home?"
+    CTA_text2: "Search the entire MLS for your San Mateo home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://mark-palermo.kw.com/listings-search/#/2033763787
 
 lender:
   show_section: false
@@ -61,38 +65,38 @@ lender:
   url:
 
 socials:
-  review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
-  twitter_url:
+  review_sm_icons: true
+  facebook_url: https://www.facebook.com/ThePalermoPropertiesTeam
+  linkedin_url: https://www.linkedin.com/in/markpalermokw
+  youtube_url: https://www.youtube.com/channel/UCEhJIbhFdEqSlC1y34Deubg
+  twitter_url: https://twitter.com/MJPalermoKW
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url:
+  yelp_url: http://www.yelp.com/biz/mark-palermo-palermo-properties-team-san-carlos
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'San Mateo Real Estate Podcast with Mark Palermo & Kirsten Hagen'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Mateo Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Palermo Properties Team - your professional San Mateo Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Mateo, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Mark Palermo & Kirsten Hagen'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: San Mateo Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#be1c2c'
+  theme_color: '#4c4c4e'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
